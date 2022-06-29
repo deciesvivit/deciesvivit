@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![MasterHead](https://github.com/deciesvivit/deciesvivit/blob/main/header.png)](https://github.com/deciesvivit)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deciesvivit&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
